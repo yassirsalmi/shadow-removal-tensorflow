@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 PatchGAN Discriminator for Image-to-Image Translation
 Inspired by:

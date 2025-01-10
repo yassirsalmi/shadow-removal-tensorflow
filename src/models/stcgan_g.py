@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import tensorflow as tf
 from tensorflow import keras
 import tensorflow.keras.layers as layers

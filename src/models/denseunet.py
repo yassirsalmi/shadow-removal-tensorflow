@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 Dense UNet for Image Segmentation and Translation
 Inspired by:

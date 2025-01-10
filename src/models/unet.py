@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 UNet Architecture for Image Segmentation and Translation
 Inspired by:

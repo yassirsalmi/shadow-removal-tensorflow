@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 BEGAN (Boundary Equilibrium Generative Adversarial Networks) 
 Image Translation Model
